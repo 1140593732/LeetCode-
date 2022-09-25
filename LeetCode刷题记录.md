@@ -53,30 +53,30 @@
 
 
 
-|                             题目                             |                             题解                             |       Tag       | 备注 | 复习次数 |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------: | :--: | :------: |
-| [99. 恢复二叉搜索树](https://leetcode.cn/problems/recover-binary-search-tree/) | [题解](https://leetcode.cn/problems/recover-binary-search-tree/solution/san-chong-jie-fa-xiang-xi-tu-jie-99-hui-fu-er-cha-/) | 二叉搜索树、DFS |      |          |
-| [113. 路径总和 II](https://leetcode.cn/problems/path-sum-ii/) | [题解](https://leetcode.cn/problems/path-sum-ii/solution/3chong-fang-shi-jie-jue-2chong-ji-bai-liao-100de-2/) |    DFS、回溯    |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
-|                                                              |                                                              |                 |      |          |
+|                             题目                             |                             题解                             |       Tag       |                   备注                   | 复习次数 |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------: | :--------------------------------------: | :------: |
+| [99. 恢复二叉搜索树](https://leetcode.cn/problems/recover-binary-search-tree/) | [题解](https://leetcode.cn/problems/recover-binary-search-tree/solution/san-chong-jie-fa-xiang-xi-tu-jie-99-hui-fu-er-cha-/) | 二叉搜索树、DFS |                                          |          |
+| [113. 路径总和 II](https://leetcode.cn/problems/path-sum-ii/) | [题解](https://leetcode.cn/problems/path-sum-ii/solution/3chong-fang-shi-jie-jue-2chong-ji-bai-liao-100de-2/) |    DFS、回溯    |                                          |          |
+| [114. 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | [题解](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/solution/er-cha-shu-zhan-kai-wei-lian-biao-by-leetcode-solu/) |    DFS、链表    | 不采用递归、使用原地交换，观察交换的规律 |          |
+| [116. 填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/) | [题解](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/solution/dong-hua-yan-shi-san-chong-shi-xian-116-tian-chong/) |       树        |                                          |          |
+| [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/) | [题解](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/) |       BFS       |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
+|                                                              |                                                              |                 |                                          |          |
 
